@@ -35,4 +35,4 @@ feign:
 eureka:
   client:
     service-url:
-      defaultZone: http://192.168.1.11:8761/eureka
+      defaultZone: http://192.168.1.11:8081/eureka
