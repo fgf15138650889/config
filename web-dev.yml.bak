@@ -10,12 +10,12 @@ spring:
         max-wait: -1
         max-idle: 10
         min-idle: 0
-  data:
+   data:
     mongodb:
       database: spring_boot
       host: 192.168.2.25
       port: 27017
-      databa: fsq
+    databa: fsq
 eureka:
   client:
     service-url:
